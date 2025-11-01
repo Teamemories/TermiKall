@@ -9,3 +9,11 @@ __{`based on windows`}__
 > ```ps1
 > Remove-Module -Name Termicall
 > ```
+
+---
+title: "Termicall"
+author: "cmd_er"
+date: "22-9-2025"
+version: "7.5.3"
+tags: ["markdown", "guide", "publishing"]
+---

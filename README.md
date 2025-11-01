@@ -1,11 +1,3 @@
----
-title: "Termicall"
-author: "cmd_er"
-date: "22-9-2025"
-version: "7.5.3"
-tags: ["markdown", "guide", "publishing"]
----
-
 ## [Termicall](https://github.com/users/xqb-dpx/projects/2): PowerShell Network Utility Set Module 
 
 __{`based on windows`}__

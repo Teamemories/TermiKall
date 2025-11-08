@@ -1,0 +1,15 @@
+version: 2
+updates:
+ # Enable updates for npm dependencies
+ - package-ecosystem: "npm" # Specify the package manager (e.g., npm, pip, bundler)
+   directory: "/assets/download" # Directory containing the dependency files (e.g., package.json)
+   schedule:
+     interval: "daily" # Frequency of updates (daily, weekly, monthly)
+   ignore:
+     - dependency-name: "lodash" # Ignore updates for specific dependencies
+       versions: [""] # Ignore specific versions
+ # Enable updates for Docker dependencies
+ - package-ecosystem: "powershell"
+   directory: "/"
+   schedule:
+     interval: "weekly" # Check for updates weekly

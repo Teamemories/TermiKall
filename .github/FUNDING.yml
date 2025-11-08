@@ -2,12 +2,12 @@
 
 # Individual contributors or organizations
 individuals:
-  - name:
-    url:
+  - name: T-Memories
+    url: https://github.com/teamemories
 
 organizations:
-  - name: Halforest
-    url: https://github.com/halforest
+  - name: T-Memories
+    url: https://github.com/teamemories
 
 # Platforms hosting fundraisers or donations
 platforms:
@@ -27,3 +27,4 @@ tiers:
 recurring:
   - name: Coffee Monthly
     url:
+

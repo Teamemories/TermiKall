@@ -1,13 +1,11 @@
 ---
-title: "Termicall"
+title: "TermiKall"
 author: "cmd_er"
-date: "22-9-2025"
-version: "7.5.3"
-tags: ["Terminal", "PowerShell", "Network Tool"]
+date: "25-12-2025"
+version: "7.5.4"
+tags: ["Terminal", "Network Tool"]
 ---
 
-## Termicall: PowerShell Network Utility Set Module 
-
-__{based on windows}__
+## TermiKall: Network Utility Set Module
 
 > [__`Download & Install`__](https://github.com/xqb-dpx/Termicall/releases/)

@@ -2,6 +2,7 @@
 
 # Don't forget!
 
-> For report bugs, issue must be includes of #bug tag.
+> For report bugs, issue must be includes of [**#bug**]() tag.
 > 
-> For send suggestions, issue must be includes of #sug tag.
+> For send suggestions, issue must be includes of [**#sug**]() tag.
+

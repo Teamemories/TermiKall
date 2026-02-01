@@ -1,6 +1,6 @@
-# Contributing to [Project Name]
+# Contributing to TermiKall
 
-Thank you for your interest in contributing to [Project Name]!  
+Thank you for your interest in contributing to TermiKall!  
 Before submitting any code, documentation, or changes, please read and agree to the terms below.
 
 ---
@@ -10,16 +10,13 @@ Before submitting any code, documentation, or changes, please read and agree to 
 By contributing to this project, you (the contributor) agree that:
 
 1. Right to Release:  
-   The project owner ([Your Name]) has the exclusive right to release the official version of this project.
+   The project owner (Teamemories has the exclusive right to release the official version of this project.
 
 2. Right to Contribute:  
    Your code, documentation, or other contributions may be used in the development of the project and incorporated into the official release by the project owner.
 
 3. Acknowledgment of Contribution:  
    Your name will be listed in the contributors' list to give proper credit for your work.
-
-4. Other Terms:  
-   This agreement is governed by the laws of [Your Country].
 
 > By submitting a pull request (PR), you confirm that you have read and agree to this CLA.
 
@@ -39,3 +36,4 @@ By contributing to this project, you (the contributor) agree that:
 All contributors will be recognized in this list:
 
 - [cmd_er](https://github.com/xqb-dpx)
+

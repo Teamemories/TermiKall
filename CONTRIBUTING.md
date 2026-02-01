@@ -29,6 +29,4 @@ By contributing to this project, you (the contributor) agree that:
 3. Submit a pull request explaining your changes.
 4. Remember: contributions are for development purposes only; the official release remains under the control of the project owner.
 
----
-
-## [Contributers List](https://github.com/Teamemories/TermiKall/graphs/contributors)
+> You can see [Contributers List](https://github.com/Teamemories/TermiKall/graphs/contributors).

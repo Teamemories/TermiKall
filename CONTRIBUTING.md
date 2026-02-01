@@ -28,13 +28,3 @@ By contributing to this project, you (the contributor) agree that:
 2. Make sure your contribution follows the project's guidelines and coding standards.
 3. Submit a pull request explaining your changes.
 4. Remember: contributions are for development purposes only; the official release remains under the control of the project owner.
-
----
-
-## Contributors
-
-All contributors will be recognized in this list:
-
-- [cmd_er](https://github.com/xqb-dpx)
-
-<iframe src="https://github.com/Teamemories/TermiKall/graphs/contributors" title="Contributers"></iframe>
